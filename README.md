@@ -12,7 +12,7 @@
 [https://www.bilibili.com/video/BV1aj41117oD/](https://www.bilibili.com/video/BV1aj41117oD/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的在线教育系统(源码+数据库+18000字论文)096
 
@@ -115,7 +115,7 @@
 
 ## 五、浏览地址
 - 前台访问路径：http://localhost:8080
-  931708230@qq.com/123456 
+  1556708905@qq.com/123456 
 - 后台访问路径：http://localhost:9000
   admin/123456
 
@@ -150,7 +150,7 @@ AlipayConfig里面的支付宝沙箱配置，还要用ngrok先将内网穿透配
 ![contents](./picture/picture51.png)
 ![contents](./picture/picture52.png)
 
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+**完整代码收费  可以加qq 1556708905 或者加微信zheng0123Long 咨询**
 
 **接毕业设计和论文**
 
